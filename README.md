@@ -8,11 +8,12 @@ I'm a UI/UX designer and front-end developer who is passionate about open-source
 - Tinkering with interactions on <a href="https://codepen.io/MateuxLucax"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/mateusbrandt/">LinkedIn</a> 💼
 - Find my designs on <a href="https://dribbble.com/MateuxLucax">Dribbble</a> 🎨
-
+<!--
 ## Some facts 🤖:
 - 🔭 I’m currently working on TypeScript
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on NextJS projects
 - 🤔 I’m looking for help with TypeORM
 - 💬 Ask me about CSS
-- ⚡ Fun fact: I hate PHP
+- ⚡ Fun fact: I hate PHP 
+-->
