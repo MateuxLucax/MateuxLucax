@@ -17,3 +17,8 @@ I'm a UI/UX designer and front-end developer who is passionate about open-source
 - 💬 Ask me about CSS
 - ⚡ Fun fact: I hate PHP 
 -->
+## Now Playing on Spotify
+
+<a href="https://now-playing.mateux.dev/now-playing?open">
+    <img src="https://now-playing.mateux.dev/now-playing" width="256" height="64" alt="Now Playing">
+</a>
