@@ -19,6 +19,6 @@ I'm a UI/UX designer and front-end developer who is passionate about open-source
 -->
 ## Now Playing on Spotify
 
-<a href="https://now-playing.mateux.dev/now-playing?open">
+<a href="https://now-playing.mateux.dev/now-playing?open" target="_blank" rel="noopener">
     <img src="https://now-playing.mateux.dev/now-playing" width="256" height="64" alt="Now Playing">
 </a>
