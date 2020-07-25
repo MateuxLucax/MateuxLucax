@@ -1,7 +1,7 @@
 # Hi there, I'm Mateus Lucas 👋🚀💻
 
 <img src="https://raw.githubusercontent.com/MateuxLucax/MateuxLucax/master/cover.png" alt="banner that says Mateus Lucas - UI/UX designer and front-end developer">
-I'm a UI/UX designer and front-end developer who is passionate about open-source, solve design problems and create awesome experiences. Imagining all the aspects and interactions that a user might have. Some technologies I enjoy working with include ReactJS, Jamstack, GraphQL, NextJS, TypesCript, Python. And I use Figma as my prototyping platform.
+I'm a UI/UX designer and front-end developer who is passionate about open-source, solve design problems and create awesome experiences. Imagining all the aspects and interactions that a user might have. Some technologies I enjoy working with are ReactJS, Jamstack, GraphQL, NextJS, TypesCript, Python. My favorite prototyping platform is Figma.
 
 ## Find me around the web 🌎:
 - Discover about me on <a href="https://mateux.dev">Personal Portfolio</a> 🚀
