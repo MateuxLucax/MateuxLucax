@@ -15,11 +15,5 @@ I'm a UI/UX designer and front-end developer passionate about open-source projec
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on NextJS projects
 - 🤔 I’m looking for help with TypeORM
-- 💬 Ask me about CSS
-- ⚡ Fun fact: I hate PHP 
+- 💬 Ask me about CSS 
 -->
-
-## See what I'm listening to right now:
-<a href="https://now-playing.mateux.dev/now-playing?open" target="_blank" rel="noopener">
-    <img src="https://now-playing.mateux.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
