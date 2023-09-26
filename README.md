@@ -14,7 +14,9 @@ I usually work with:
 Some techs I've worked with:
 
 <p>
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__McAf8P7.png" height="32px" />  
+<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+  <img title="Flutter" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_500,q_auto:good,w_500/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com__McAf8P7.png" height="32px" />  
+</a>
 &nbsp;
 <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" height="32px"  />
 &nbsp;
