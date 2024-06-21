@@ -1,6 +1,6 @@
 # Hi there, I'm Mateus Lucas
 
-## A Softwware Engineer (who loves to play around with algorithms)
+## A Software Engineer (who loves to play around with algorithms)
 
 I'm a Software Engineer (with a passion for Mobile Development 🤓) based in Brazil. My drive is to build great user experiences as if I was the target user who really enjoys a beautifully crafted experience.
 
@@ -8,7 +8,7 @@ I usually work with:
 
 📱 Mobile apps for Android and iOS with **Flutter**, **Kotlin** and **SwiftUI** <br/> 
 💻 Web front-end development with **Vue**, **NextJS**, **Svelte**<br/>
-🛰️ API's with **Express**, **Quarkus**, **Spring**<br/>
+🛰️ API's with **Quarkus**, **Spring**<br/>
 💾 Database: **Postgres**, **SQLite**, **Elastic Search**, **Firebase**<br/>
 🤓 Other: **Apache Kafka**, **Apache Lucene**, **Docker**<br/>
 
