@@ -2,7 +2,7 @@
 
 ## A Software Engineer (who loves to play around with algorithms)
 
-I'm a Software Engineer (with a passion for problem-solving 🤓) based in Brazil. My drive is to build great user experiences as if I were the target user who really enjoys a beautifully crafted experience.
+I’m a Software Engineer (with a passion for problem-solving 🤓) based in Brazil. My goal is to create great user experiences, combined with performance and efficiency.
 
 I usually work with: 
 
