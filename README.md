@@ -1,23 +1,32 @@
-# Hi there, I'm Mateus Lucas
+# 👋 Hi there, I'm Mateus Lucas
 
-## A Software Engineer (who loves to play around with algorithms)
+## 🧠 Software Engineer | Algorithm Enthusiast
 
-I’m a Software Engineer (with a passion for problem-solving 🤓) based in Brazil. My goal is to create great user experiences, combined with performance and efficiency.
+I'm a Software Engineer based in Brazil with a passion for clean code, elegant solutions, and efficient systems. I thrive on solving complex problems and crafting delightful user experiences across platforms.
 
-I usually work with: 
+### 🛠️ What I Work With
 
-📱 Mobile apps for Android and iOS with **Flutter**, **Kotlin** and **SwiftUI** <br/> 
-💻 Web front-end development with **Vue**, **NextJS**, **Svelte**<br/>
-🛰️ API's with **Quarkus**, **Spring**<br/>
-💾 Database: **Postgres**, **SQLite**, **Elastic Search**, **Firebase**<br/>
-🤓 Other: **Apache Kafka**, **Apache Lucene**, **Docker**<br/>
+- **Backend & APIs**: Quarkus, Spring, Java, TypeScript, Go 
+- **Mobile**: Flutter, Kotlin, SwiftUI  
+- **Frontend**: Vue, Svelte, Next.js
+- **Databases**: PostgreSQL, Elasticsearch, SQLite, Firebase  
+- **Dev & Infra**: Apache Kafka, Apache Lucene, Docker  
 
-Some techs I've worked with:
+### 🌱 Always Learning About
+- System design, distributed systems, observability, and developer productivity  
+- New UI frameworks, performance tricks, and algorithmic challenges  
 
+---
+
+## 🚀 Tech Stack
+
+> *Languages, frameworks, platforms, and tools I’ve worked with:*
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Lucene](https://img.shields.io/badge/Apache%20Lucene-019B8F?style=for-the-badge&logo=apache-lucene&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -32,7 +41,10 @@ Some techs I've worked with:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
