@@ -1,26 +1,26 @@
-# 👋 Hi there, I'm Mateus Lucas
+# 👋 hi there, I'm Mateus Lucas
 
-## 🧠 Software Engineer | Algorithm Enthusiast
+## 🧠 software engineer | algorithm enthusiast
 
 I'm a Software Engineer based in Brazil with a passion for clean code, elegant solutions, and efficient systems. I thrive on solving complex problems and crafting delightful user experiences across platforms.
 
-### 🛠️ What I Work With
+### 🛠️ what I work with
 
-- **Backend & APIs**: Quarkus, Spring, Java, TypeScript, Go 
-- **Mobile**: Flutter, Kotlin, SwiftUI  
-- **Frontend**: Vue, Svelte, Next.js
-- **Databases**: PostgreSQL, Elasticsearch, SQLite, Firebase  
-- **Dev & Infra**: Apache Kafka, Apache Lucene, Docker  
+- **backend & APIs**: Quarkus, Spring, Java, TypeScript, Go 
+- **mobile**: Flutter, Kotlin, SwiftUI  
+- **frontend**: Vue, Svelte, Next.js
+- **databases**: PostgreSQL, Elasticsearch, SQLite, Firebase  
+- **dev & infra**: Apache Kafka, Apache Lucene, Docker  
 
-### 🌱 Always Learning About
-- System design, distributed systems, observability, and developer productivity  
-- New UI frameworks, performance tricks, and algorithmic challenges  
+### 🌱 always learning about
+- system design, distributed systems, observability, and developer productivity  
+- nww UI frameworks, performance tricks, and algorithmic challenges  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 tech stack
 
-> *Languages, frameworks, platforms, and tools I’ve worked with:*
+> *languages, frameworks, platforms, and tools I’ve worked with:*
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
